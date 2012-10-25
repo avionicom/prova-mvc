@@ -8,6 +8,7 @@ require 'libs/model.php';
 
 //Library
 require 'libs/database.php';
+require 'libs/session.php';
 
 require 'config/paths.php';
 require 'config/database.php';
